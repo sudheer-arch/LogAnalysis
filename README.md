@@ -49,8 +49,3 @@ The project requires the following Python libraries:
 - `langchain>=1.0.2`
 - `langchain-core>=1.0.1`
 - `requests>=2.32.5`
-
-
-python3 -m venv .venv
-source .venv/bin/activate
-python3 main.py
