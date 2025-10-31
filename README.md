@@ -8,8 +8,8 @@ To set up this project on your local system, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/GauravASY/IPSec_Tunnel_Agent.git
-   cd IPSec_Tunnel_Agent
+   git clone https://github.com/sudheer-arch/LogAnalysis.git
+   cd LogAnalysis
    ```
 
 2. **Create a virtual environment:**
