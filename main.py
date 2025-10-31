@@ -6,7 +6,7 @@ import json
 #  CONFIGURATION
 # ------------------------------
 API_URL = "https://litellm-litemaas.apps.prod.rhoai.rh-aiservices-bu.com/v1/chat/completions"
-API_TOKEN = "sk-LszPuMF92HVEMDjhYO4KEQ"
+API_TOKEN = ""
 
 analysing_system_prompt = """You are a log analysis expert. Your task is to analyze the provided system logs and identify any anomalies, errors, or noteworthy patterns.
 Provide a concise summary of your findings along with any recommendations for further investigation or action. Provide the results in bullet points for clarity."""
