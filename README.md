@@ -32,13 +32,6 @@ To set up this project on your local system, follow these steps:
    pip install -r requirements.txt
    ```
 
-5. **Create a `.env` file:**
-   Create a file named `.env` in the root directory of the project and add the following environment variables:
-   ```
-   API_URL=<your_api_url>
-   API_TOKEN=<your_api_token>
-   ```
-
 ## Usage
 
 To run the application, execute the following command:
